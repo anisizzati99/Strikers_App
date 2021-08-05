@@ -30,7 +30,7 @@ public class AboutUs extends AppCompatActivity {
                 .addGroup("CONNECT WITH US!")
                 .addEmail("anisizzati0108@gmil.com")
                 .addWebsite("https://github.com/anisizzati99/Strikers_App") //github link
-                .addYoutube("UCbekhhidkzkGryM7mi5Ys_w")   //Enter your youtube link here (replace with my channel link)
+                .addYoutube("https://www.youtube.com/channel/UCpwdC_EUwERcZYV1lPmG3LQ")   //Enter your youtube link here (replace with my channel link)
                 .addItem(createCopyright())
                 .create();
         setContentView(aboutPage);
