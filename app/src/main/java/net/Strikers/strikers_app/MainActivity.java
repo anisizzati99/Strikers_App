@@ -1,6 +1,6 @@
 package net.Strikers.strikers_app;
 
-//494049224130-iunjeqvmi5885n64bk4tc84d8umg89e3.apps.googleusercontent.com
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
